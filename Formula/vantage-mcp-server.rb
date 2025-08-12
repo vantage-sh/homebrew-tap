@@ -1,8 +1,8 @@
 class VantageMcpServer < Formula
   desc "MCP Server for accessing the https://vantage.sh API for costs and usage data"
   homepage "https://github.com/vantage-sh/vantage-mcp-server"
-  url "https://github.com/vantage-sh/vantage-mcp-server/archive/refs/tags/v0.0.4.tar.gz"
-  sha256 "8e7047864370a6a82b2e14c892a156b67fc070e79ca9d686898477bf3484467c"
+  url "https://github.com/vantage-sh/vantage-mcp-server/archive/refs/tags/v0.0.5.tar.gz"
+  sha256 "81fc5c72562e7ad8097039a8c35bfe85acf73b6af93a456fc55047e263ace4fd"
   license "MIT"
 
   depends_on "go" => :build
